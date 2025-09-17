@@ -35,7 +35,7 @@ const translations = {
         contact_h2: "Contact Me",
         contact_p: "Have an idea or a project in mind? I'd love to hear from you!",
         contact_cta: "Email Me",
-        footer_p: "Built by Camila | Connect with me on <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
+        footer_p: "Built by Camila | Connect with me on <a href=\"https://github.com/mcamimm/mcami.jar\" target=\"_blank\">GitHub</a> & <a href=\"https://www.linkedin.com/in/mcamijar/\" target=\"_blank\">LinkedIn</a>"
     },
     es: {
         nav_logo: "Mi Portafolio",
@@ -61,7 +61,7 @@ const translations = {
         contact_h2: "Contáctame",
         contact_p: "¿Tienes una idea o un proyecto en mente? ¡Me encantaría saber de ti!",
         contact_cta: "Envíame un Email",
-        footer_p: "Creado por Camila | Conecta conmigo en <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
+        footer_p: "Creado por Camila | Conecta conmigo en <a href=\"https://github.com/mcamimm/mcami.jar\" target=\"_blank\">GitHub</a> & <a href=\"https://www.linkedin.com/in/mcamijar/\" target=\"_blank\">LinkedIn</a>"
     },
     de: {
         nav_logo: "Mein Portfolio",
@@ -87,7 +87,7 @@ const translations = {
         contact_h2: "Kontaktieren Sie mich",
         contact_p: "Haben Sie eine Idee oder ein Projekt im Kopf? Ich würde gerne von Ihnen hören!",
         contact_cta: "E-Mail an mich",
-        footer_p: "Erstellt von Camila | Verbinden Sie sich mit mir auf <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
+        footer_p: "Erstellt von Camila | Verbinden Sie sich mit mir auf <a href=\"https://github.com/mcamimm/mcami.jar\" target=\"_blank\">GitHub</a> & <a href=\"https://www.linkedin.com/in/mcamijar/\" target=\"_blank\">LinkedIn</a>"
     }
 };
 
