@@ -17,7 +17,7 @@ const translations = {
         nav_services: "Services",
         nav_projects: "Projects",
         nav_contact: "Contact",
-        hero_h1: "AI & Automation Specialist",
+        hero_h1: "AI & Automation Enthusiast",
         hero_p: "Building intelligent solutions for a smarter future. Let's create something amazing together.",
         hero_cta: "Get in Touch",
         about_h2: "About Me",
@@ -35,7 +35,7 @@ const translations = {
         contact_h2: "Contact Me",
         contact_p: "Have an idea or a project in mind? I'd love to hear from you!",
         contact_cta: "Email Me",
-        footer_p: "Built by [Your Name] | Connect with me on <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
+        footer_p: "Built by Camila | Connect with me on <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
     },
     es: {
         nav_logo: "Mi Portafolio",
@@ -43,11 +43,11 @@ const translations = {
         nav_services: "Servicios",
         nav_projects: "Proyectos",
         nav_contact: "Contacto",
-        hero_h1: "Especialista en IA y Automatización",
+        hero_h1: "Apasionada por IA y Automatización",
         hero_p: "Construyendo soluciones inteligentes para un futuro más brillante. Creemos algo increíble juntos.",
         hero_cta: "Ponte en Contacto",
         about_h2: "Sobre Mí",
-        about_p: "Soy un apasionado estudiante de Inteligencia Artificial y Automatización. Mi enfoque es aprovechar herramientas modernas para resolver problemas del mundo real, desde la creación de aplicaciones empresariales eficientes hasta la extracción de información valiosa de los datos. Creo en hacer que la tecnología potente sea accesible y asequible para todos.",
+        about_p: "Soy una apasionada estudiante de Inteligencia Artificial y Automatización. Mi enfoque es aprovechar herramientas modernas para resolver problemas del mundo real, desde la creación de aplicaciones empresariales eficientes hasta la extracción de información valiosa de los datos. Creo en hacer que la tecnología potente sea accesible y asequible para todos.",
         services_h2: "Servicios que Ofrezco",
         service1_h3: "Apps Asequibles con AppSheet",
         service1_p: "Construyo aplicaciones personalizadas y sin código para las necesidades de tu negocio usando Google AppSheet. Perfecto para gestión de inventario, CRMs y herramientas internas, entregado de forma rápida y asequible.",
@@ -56,12 +56,12 @@ const translations = {
         service3_h3: "Análisis de Datos con Python",
         service3_p: "Desbloquea las historias ocultas en tus datos. Realizo Análisis Exploratorio de Datos (EDA) usando librerías de Python como Pandas y Matplotlib para ayudarte a tomar decisiones basadas en datos.",
         projects_h2: "Proyectos Personales",
-        project1_h3: "Fundador de un Club de Tecnología",
-        project1_p: "Fundé y dirijo un club de tecnología centrado en la comunidad, donde exploramos tecnologías emergentes, colaboramos en proyectos y compartimos nuestra pasión por la innovación y la resolución de problemas.",
+        project1_h3: "Fundadora de un Club de Tecnología",
+        project1_p: "Estoy en el proceso de fundar y dirigir un club de tecnología centrado en la comunidad, donde exploramos tecnologías emergentes, colaboramos en proyectos y compartimos nuestra pasión por la innovación y la resolución de problemas.",
         contact_h2: "Contáctame",
         contact_p: "¿Tienes una idea o un proyecto en mente? ¡Me encantaría saber de ti!",
         contact_cta: "Envíame un Email",
-        footer_p: "Creado por [Tu Nombre] | Conecta conmigo en <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
+        footer_p: "Creado por Camila | Conecta conmigo en <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
     },
     de: {
         nav_logo: "Mein Portfolio",
@@ -69,7 +69,7 @@ const translations = {
         nav_services: "Dienstleistungen",
         nav_projects: "Projekte",
         nav_contact: "Kontakt",
-        hero_h1: "KI & Automatisierungsspezialist",
+        hero_h1: "KI- & Automatisierungs-Enthusiast",
         hero_p: "Intelligente Lösungen für eine intelligentere Zukunft entwickeln. Lassen Sie uns gemeinsam etwas Erstaunliches schaffen.",
         hero_cta: "Kontakt aufnehmen",
         about_h2: "Über Mich",
@@ -87,7 +87,7 @@ const translations = {
         contact_h2: "Kontaktieren Sie mich",
         contact_p: "Haben Sie eine Idee oder ein Projekt im Kopf? Ich würde gerne von Ihnen hören!",
         contact_cta: "E-Mail an mich",
-        footer_p: "Erstellt von [Ihr Name] | Verbinden Sie sich mit mir auf <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
+        footer_p: "Erstellt von Camila | Verbinden Sie sich mit mir auf <a href=\"#\" target=\"_blank\">GitHub</a> & <a href=\"#\" target=\"_blank\">LinkedIn</a>"
     }
 };
 
