@@ -43,7 +43,7 @@ const translations = {
         nav_services: "Servicios",
         nav_projects: "Proyectos",
         nav_contact: "Contacto",
-        hero_h1: "Apasionada por IA y Automatización",
+        hero_h1: "Apasionada por la IA y la Automatización",
         hero_p: "Construyendo soluciones inteligentes para un futuro más brillante. Creemos algo increíble juntos.",
         hero_cta: "Ponte en Contacto",
         about_h2: "Sobre Mí",
