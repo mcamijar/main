@@ -1,0 +1,20 @@
+# GitHub Pages configuration
+
+# Ensure index.html is the homepage, not README.md
+markdown: kramdown
+theme: null
+
+# Exclude unnecessary files from Jekyll processing
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - node_modules
+  - package.json
+  - package-lock.json
+
+# Site settings
+title: "AI & Automation Portfolio"
+description: "Personal portfolio showcasing projects and services in AI and automation."
+url: "https://mcami.jar.github.io"  # Your GitHub Pages URL
+baseurl: ""                         # Empty since it's a user/organization site
